@@ -66,9 +66,9 @@ Every and each [nix-shell](https://nixos.org/manual/nix/stable/#description-13) 
 ## Usage
 
 - git clone the desired repo
-  - example: `$ git clone https://github.com/maxdevjs/dev-nix-shells-js my-awesome-js-app`
+  - example: `$ git clone https://github.com/maxdevjs/dev-nix-shells-nodejs my-awesome-nodejs-app`
 - cd into the cloned folder
-  - example: `cd my-awesome-js-app`
+  - example: `cd my-awesome-nodejs-app`
 - allow [direnv](https://direnv.net/) (if installed)
   - `$ direnv allow`
 - otherwise
@@ -79,6 +79,7 @@ Every and each [nix-shell](https://nixos.org/manual/nix/stable/#description-13) 
       - ...
 - enjoy
   - eventually 🤔
+- update the `README.md` and `LICENSE` files
 
 ## Resources
 
