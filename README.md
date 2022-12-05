@@ -13,9 +13,10 @@
 1. [JS](#js)
 1. [Lua](#lua)
 1. [RoR](#ror)
-1. [Usage](#usage)
-1. [Resources](#resources)
-1. [TODO](#todo)
+1. [Rust](#rust)
+3. [Usage](#usage)
+4. [Resources](#resources)
+5. [TODO](#todo)
 
 ## What is this
 
@@ -60,8 +61,22 @@ Every and each [nix-shell](https://nixos.org/manual/nix/stable/#description-13) 
 
 #### RoR
 
-- [nix-shell for rails](https://github.com/maxdevjs/dev-nix-shells-rails)
-- [nix-shell for ruby](https://github.com/maxdevjs/dev-nix-shells-ruby)
+- [Nix-ifying Rust projects](https://github.com/maxdevjs/dev-nix-shells-rails)
+- [nix-shell for ruby](https://github.com/srid/rust-nix-template)
+
+#### Rust
+
+##### Currently testing
+
+- [Setting up a Rust environment in Nix](https://gutier.io/post/development-using-rust-with-nix/)
+- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay)
+  - experimenting with [rust-overlay#nix-flakes](https://github.com/oxalica/rust-overlay#nix-flakes)
+    - `nix shell github:oxalica/rust-overlay` 
+    - 
+##### Next
+
+- [nix-shell for ruby](https://srid.ca/rust-nix)
+- [srid/rust-nix-template](https://github.com/maxdevjs/dev-nix-shells-ruby)
 
 ## Usage
 
