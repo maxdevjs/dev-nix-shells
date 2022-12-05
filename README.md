@@ -66,7 +66,9 @@ Every and each [nix-shell](https://nixos.org/manual/nix/stable/#description-13) 
 
 #### Rust
 
-> 🤔💭 [rustup](https://rustup.rs/) does not look so bad to [install Rust](https://www.rust-lang.org/tools/install) (and manage it).
+> 🤔💭 [rustup](https://rustup.rs/) does not look so bad to [install Rust](https://www.rust-lang.org/tools/install) (and manage it)
+> 
+> `rustup self uninstall` feels so appealing 😈 compared to the enigmatic [Nix](https://github.com/NixOS/nix) sinkhole
 
 ##### Currently testing
 
