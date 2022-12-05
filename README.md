@@ -66,6 +66,8 @@ Every and each [nix-shell](https://nixos.org/manual/nix/stable/#description-13) 
 
 #### Rust
 
+> 🤔💭 [rustup](https://rustup.rs/) does not look so bad to [install Rust](https://www.rust-lang.org/tools/install) (and manage it).
+
 ##### Currently testing
 
 - [Setting up a Rust environment in Nix](https://gutier.io/post/development-using-rust-with-nix/)
